@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/*
+body{
+	width: 1200px; 
+	background-image: url('../images/005.jpg');
+	background-repeat: no-repeat;
+	background-position: center; 
+	background-attachment: scroll; 
+}
+*/
+
+
+.box{
+	width: 400px; 
+	height: 200px; 
+	border: 1px solid red;
+	background-image: url(../images/004.jpg);
+	background-size: 50% 50%;
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	opacity: 0.5;  
+
+			
+}
