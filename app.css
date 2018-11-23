@@ -1,0 +1,28 @@
+*{
+	color: red; background-color: #34495e;  
+}
+
+#brad{
+	color: green; 
+	font-family: arial;
+	font-size: 50px;
+	font-style: italic;
+	font-weight: bold;
+	
+
+
+
+}
+.hello{
+	color: orange;
+	
+	text-indent: 5px;
+	text-decoration: underline;
+	text-align: justify;
+	letter-spacing: 4px; 
+	text-transform: capitalize;
+	word-spacing: 5px;
+	line-height: 25px;
+
+
+}
