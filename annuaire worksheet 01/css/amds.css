@@ -1,0 +1,227 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+.container{
+	width: 1300px; 
+	height: 2500px; 
+	margin-left: auto;
+	margin-right: auto;
+        background-color: #dcdde1; 
+}
+
+.header-fix{
+position:fixed;  
+        width:100%; 
+        top:0px;
+
+
+
+}
+.header{
+        width:1300px;  
+	height: 120px;
+        background-image: url(../images/025.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+           
+	 
+
+}
+
+.lg{
+	width: 100px; 
+	height: 100px; 
+	background-image: url(../images/022.jpg);
+	background-size: cover;  
+	float: left;
+	margin-left: 10px;
+	border-radius: 100%; 
+
+}
+
+.nav{
+	width: 800px; 
+	height: 100px; 
+	float: left;
+	margin-left: 25px; 
+}
+.nav div{
+
+padding-top: 25px; 
+
+
+}
+.nav div{
+   width: 133px; 
+   list-style: none;	
+   text-align: center;
+   float: left;
+   padding-left: 40px; 
+     
+
+}
+.nav div a{
+    text-decoration: none;
+    color: #f5f6fa; 
+    display: inline-block;
+    padding: 25px; 
+    
+    border-bottom: 1px solid #f1f2f6
+
+}
+
+.form{
+    width: 80px; 
+    height: 100px;
+     
+    float: left; 
+    margin-left: 50px;
+    padding: 40px; 
+}
+
+.presentation{
+    height: 200px;
+    margin-top: 150px; 
+       
+}
+.presentation h1{
+	width: 700px; 
+	border-bottom: 1px solid #273c75;
+	margin: 5px; 
+}
+.presentation p{
+	font-family: arial;
+	font-size: 26px;
+
+}
+.navbar{
+    height: 100px; 
+}
+.cat{
+    width: 400px; 
+    height: 70px; 
+    margin: 10px;
+    float: left;
+    border: 1px solid #353b48; 
+
+}
+.cat  a{
+    text-decoration: none;
+    color: #273c75; 
+    display: block;
+    padding:10px; 
+    float: left; 
+}
+
+.center{
+     
+    
+}
+.center h3{
+color: #273c75; 
+text-align: center;
+text-decoration: underline;
+margin:5px;   
+}
+.footer{
+    height: 250px; 
+    clear: both;
+    background-color: #7f8fa6; 
+}
+.menu{
+    width: 550px;
+    margin: 5px; 
+    float: left;
+    border-right: 1px solid #ffffff; 
+}
+.menu b {
+text-align:center;
+margin: 30px;  
+text-decoration: underline;
+font-size: 10px; 
+}
+.menu ul{
+padding: 5px; 
+}
+.menu ul li{
+   width: 80px; 
+   list-style: none;
+   padding: 5px;
+   text-align: center;  
+   
+}
+.menu ul li a{
+    width: 70px;  
+    text-decoration: none;
+    color: #f1f2f6; 
+    padding-top: 10px;
+    margin-top: 10px;
+    font-size: 10px;
+    font-weight: 200;
+    line-height: 0.5;
+
+
+
+}
+.propos{
+    width: 450px;
+    height:250px; 
+    margin: 5px; 
+    float: left;
+    border-right: 2px solid #ffffff; 
+}
+.propos a{
+    text-decoration: none;
+    color: #f1f2f6; 
+    display: inline-block; 
+    padding: 1px;
+    font-size: 10px;
+}
+.propos b{
+text-decoration: underline;
+font-size: 10px; 
+}
+
+
+.products{
+	width: 1200px; 
+	margin: auto;
+
+}
+.product{
+	width: 385px;
+	float: left; 
+        margin-right: 10px; 
+	margin-bottom: 5px;
+	border: 2px solid #2f3542;
+        border-style: outset;
+           
+
+}
+.product img{
+	width: 100%;
+	height: 300px;
+
+
+}
+.product h3{
+	text-align: center; 
+	background-color: #b2bec3; 
+	font-weight: bold;
+        color:#273c75; 
+          
+}.
+.product a{
+text-decoration: none; 
+
+}
+.footer .lg{
+margin-top: 10px; 
+margin-left: 150px;
+}
+
+
